@@ -1,23 +1,7 @@
-#  STUDY 
+# 📙 알고리즘 공부 기록 일지
 
-###  알고리즘 분류
-```c++
-#include <iostream>
+코드 기록 저장소입니다
 
-int main()
-{
-    cout << "Hi" << endl;
-    return 0;
-}
-```
-[링크](https://www.acmicpc.net/)
+## 공부중인 책, 사이트
 
-* [백준](https://www.acmicpc.net/)
-
-> '공부합시다'
-
-
-이름|정보|나이
----|---|---|
-김정철|남자|24
-
+백준, 종만북
